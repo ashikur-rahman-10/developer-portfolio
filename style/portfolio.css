@@ -39,7 +39,7 @@ nav li{
 }
 .banner{
     display: flex;
-    background-image: url(/images/header_bg.png);
+    background-image: url(../images/header_bg.png);
     margin: 0 200px;
     background-repeat: no-repeat;
     background-position: bottom right , left;
@@ -51,7 +51,7 @@ nav li{
 }
 .header{
     background-color: #FFF8F3;
-    background-image: url(/images/developer.png);
+    background-image: url(../images/developer.png);
     background-repeat: no-repeat;
     
 }
